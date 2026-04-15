@@ -6,7 +6,7 @@ All outbound traffic from the spoke network is routed through a Linux-based Netw
 
 ## Architecture Diagram
 
-![Azure Hub-Spoke NVA Routing Lab](diagram.png)
+![Azure Hub-Spoke NVA Routing Lab](./diagram.png)
 
 ## Key Components
 
