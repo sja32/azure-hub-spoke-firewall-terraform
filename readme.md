@@ -45,3 +45,12 @@ From `vm-spoke`:
 ```bash
 ping -c 4 8.8.8.8
 curl -4 http://ifconfig.me/ip
+
+## 🚀 What This Demonstrates
+
+- Hub-Spoke network architecture in Azure
+- Centralized egress via Network Virtual Appliance (NVA)
+- User Defined Routes (UDR) for traffic control
+- Linux-based NAT and IP forwarding
+- Secure access via jump host (no direct public access to workloads)
+- Infrastructure deployed using Terraform
